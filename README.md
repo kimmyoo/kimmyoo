@@ -10,7 +10,7 @@ This is Yao J. With an biomedical engineering background, I earned a Master's de
 - Languages: English (professionally proficient) • Mandarin (native level)
 
 ## Projects:
-- VocabNexus: a web app (builted using MERN Stack) that help English language leanrs to increase their vocabulary using a proactive memoriazation method. https://vocabnexus.com. 
+- VocabNexus: a web app (built using MERN Stack) that help English language leanrs to increase their vocabulary using a proactive memoriazation method. https://vocabnexus.com. 
 ![VocabNexus](https://raw.githubusercontent.com/kimmyoo/kimmyoo/main/assets/images/vocabnexusdemo.gif)
 
 - Occupational School Management Web App: a web app (builted using Django Rest API backend + React frontend)that manages an occupational trainig school programs and instructors, class scheduling, and student enrollment data.The app allow users to do CRUD operations on programs, instructors, classes, and students. it also supports searching of students and CSV file reading to import student data in a single batch. https://schoolmanagement-ap90.onrender.com
