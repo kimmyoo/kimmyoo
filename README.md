@@ -24,8 +24,8 @@ Backend Repo :link: https://github.com/kimmyoo/management_back.git
 ![SchoolApp](https://raw.githubusercontent.com/kimmyoo/kimmyoo/main/assets/images/schoolmanagement2.gif)
 
 - A re-implementation of the same school management web app using server side rendering and client rendering features of NEXT.js，MongoDB, and Tailwind.  
-:link: https://nextjs-school-management.vercel.app 
-Repo :link: https://github.com/kimmyoo/nextjs-school-management.git
+:link: https://nextjs-school-management.vercel.app  
+Repo :link: https://github.com/kimmyoo/nextjs-school-management.git  
 ![NewSchoolApp](https://raw.githubusercontent.com/kimmyoo/kimmyoo/main/assets/images/newManagementApp.gif)
 
 - An simple static school web site using django framework and bootstrap.
